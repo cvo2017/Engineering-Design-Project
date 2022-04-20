@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chau Vo
 
 You can use the [editor on GitHub](https://github.com/cvo2017/Engineering-Design-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
